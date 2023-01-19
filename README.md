@@ -1,2 +1,2 @@
 # Tech
-Tech info
+Tech info software solutions
